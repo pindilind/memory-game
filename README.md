@@ -4,7 +4,7 @@ A memory game in REACTJS from a youtube tutorial
 
 Link To Youtube tutorial: https://www.youtube.com/watch?v=qhOZoJPMg6w
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
